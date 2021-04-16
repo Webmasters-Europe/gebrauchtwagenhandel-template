@@ -18,4 +18,4 @@ jobs:
     - name: Install Dependencies
       run: composer install -q --no-ansi --no-interaction --no-scripts --no-suggest --no-progress --prefer-dist
     - name: Execute phpinsight
-      run: vendor/bin/phpinsights -n --ansi --format=github-action
+      run: vendor/bin/phpinsights -n --ansi  --disable-security-check --format=github-action
