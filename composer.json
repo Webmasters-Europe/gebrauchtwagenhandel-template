@@ -1,5 +1,13 @@
 {
-    "require-dev": {
+    "name": "cosnavel/gebrauchtwagenhandel-template",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Cosnavel",
+            "email": "coding@niclaskahlmeier.de"
+        }
+    ],
+    "require": {
         "nunomaduro/phpinsights": "^1.14"
     }
 }
