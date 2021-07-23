@@ -8,6 +8,6 @@
         }
     ],
     "require": {
-        "nunomaduro/phpinsights": "^1.14"
+        "nunomaduro/phpinsights": "^2.0"
     }
 }
